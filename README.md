@@ -2,8 +2,8 @@
 > The only official place to download SlugStrap is this GitHub repository. Any other websites claiming to offer downloads or versions of SlugStrap are not controlled by us.
 
 <p align="center">
-    <img src="https://example.com/SlugStrap-dark.png#gh-dark-mode-only" width="420">
-    <img src="https://example.com/SlugStrap-light.png#gh-light-mode-only" width="420">
+    <img src="https://i.imgur.com/yDn9c0L.png" width="420">
+    <img src="https://i.imgur.com/lfbj1ta.png" width="420">
 </p>
 ----
 
