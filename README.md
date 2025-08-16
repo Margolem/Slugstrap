@@ -5,17 +5,6 @@
     <img src="https://example.com/SlugStrap-dark.png#gh-dark-mode-only" width="420">
     <img src="https://example.com/SlugStrap-light.png#gh-light-mode-only" width="420">
 </p>
-
-<div align="center">
-
-[![License][shield-repo-license]][repo-license]
-[![GitHub Workflow Status][shield-repo-workflow]][repo-actions]
-[![Downloads][shield-repo-releases]][repo-releases]
-[![Version][shield-repo-latest]][repo-latest]
-[![Discord][shield-discord-server]][discord-invite]
-
-</div>
-
 ----
 
 SlugStrap is a third-party replacement for the standard Roblox bootstrapper, with extra features and tweaks for advanced users.
